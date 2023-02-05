@@ -38,7 +38,7 @@ body {
 .container {
   padding: 1.25rem;
   background-color: var(--card-bg);
-  border-radius: 0.5rem;
+  border-radius: 5%;
   margin-bottom: 1rem;
 }
 
